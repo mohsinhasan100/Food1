@@ -1,0 +1,30 @@
+
+#t{
+	background-color:;
+	height:98px;
+	width:100%;
+	float:left;
+	margin-bottom:2px;
+}
+#l{
+	background-color:#F0F8FF;
+	height:500px;
+	width:50%;
+	float:left;
+}
+#r{
+	background-color:#7EF719;
+	height:500px;
+	width:50%;
+	float:left;
+}
+#ff{
+	background-color:;
+	height:70px;
+	width:100%;
+	float:left;
+	margin-top:2px;
+}
+#state{
+	color:red;
+}
